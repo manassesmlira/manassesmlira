@@ -1,5 +1,5 @@
 ### Olá, sou o Manassés Moraes ✋🏾
-Estou me formando como desenvolvedor Full Stack, acumulando experiência com Front-end (React, HTML, CSS), Back-end (Node, Js, JavaScript) e Banco de Dados (SQL) na velocidade da luz, tendo alta capacidade de aprendizado e habilidade na resolução de problemas.
+Estou me formando como desenvolvedor Back-End, acumulando experiência com (React, HTML, CSS), Back-end (Node, Js, JavaScript) e Banco de Dados (SQL) na velocidade da luz, tendo alta capacidade de aprendizado e habilidade na resolução de problemas.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manassesmlira/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/JGASNMTHZQZOP1) 
 
